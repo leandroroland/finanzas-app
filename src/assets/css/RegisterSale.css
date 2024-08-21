@@ -1,0 +1,21 @@
+.register-sale {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.list-group-item.active {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.register-sale h2 {
+    margin-bottom: 20px;
+}

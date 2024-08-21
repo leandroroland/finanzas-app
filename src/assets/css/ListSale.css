@@ -1,0 +1,49 @@
+/* ListSale.css */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 60px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    flex: 1;
+    padding-bottom: 80px;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.sale-item {
+    border-left: 5px solid #007bff;
+}
+
+.sale-item .sale-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.sale-item .sale-time {
+    font-size: 0.9rem;
+}
