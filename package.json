@@ -22,7 +22,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
-    "homepage": "https://leandroroland.github.io/tu-repositorio",
+    "homepage": "https://leandroroland.github.io/",
     "eslintConfig": {
         "extends": [
             "react-app",
